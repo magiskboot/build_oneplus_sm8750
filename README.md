@@ -1,9 +1,7 @@
 ### 支持自动编译机型
 | 一加 | 真我 |
-| --- | --- |
-| --- | --- |  
-| 一加Ace5-Pro | 真我GT7 |      
-| 一加Ace5-Ultra | 真我GT7-Pro |
+| 一加Ace5-Pro | 真我GT7 |        
+| 一加Ace5-Ultra | 真我GT7-Pro |  
 | 一加13 | 真我GT7-Pro-Speed |  
 | 一加13T |  |    
 | 一加Pad2-Pro |  |      
